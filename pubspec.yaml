@@ -8,7 +8,8 @@ dependencies:
   meta: ^1.0.5
   flutter:
     sdk: flutter
-  permission_handler: 2.1.0
+  permission_handler:
+    git: https://github.com/kimbummen/flutter-permission-handler.git
   google_api_availability:
     git: https://github.com/kimbummen/flutter-google-api-availability.git
 dev_dependencies:
